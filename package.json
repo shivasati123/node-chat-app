@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/shivasati123/node-chat-app/issues"
   },
-  "homepage": "https://github.com/shivasati123/node-chat-app#readme"
+  "homepage": "https://github.com/shivasati123/node-chat-app#readme",
+  "dependencies": {
+    "socket.io": "^4.5.2"
+  }
 }
